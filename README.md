@@ -1,4 +1,4 @@
-# LUXE Web Scanner
+# LUXE SCAN-WEB
 
 Single-file Python web vulnerability scanner with colored terminal UI, multi-threaded checks, heuristic confirmation, HTML report, and Telegram delivery.
 
